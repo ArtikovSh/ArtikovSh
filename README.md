@@ -10,9 +10,9 @@ I'm a backend developer specializing in building REST APIs using Django and Djan
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://img.shields.io/badge/DRF-REST-red?style=for-the-badge&logo=django&logoColor=white" height="30" alt="DRF"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Aiogram"/>
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white" height="30" alt="DRF"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Aiogram"/>
 </p>
 
 ### 🌐 Frontend Basics
@@ -46,11 +46,5 @@ Excited to leverage these tools for insightful data visualization and storytelli
 
 ## 📬 Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/shohruh-ortiqov-974272316/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/Artikov_Sh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Telegram"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shohruh-ortiqov-974272316/)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Artikov_Sh)
